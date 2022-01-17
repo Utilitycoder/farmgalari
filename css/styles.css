@@ -48,11 +48,11 @@ button {
   box-shadow: 0px 4px 5px hsl(192, 100%, 9%, 0.15);
   width: 200px;
   height: 41px;
-  background-color: hsl(322, 100%, 66%);
+  background-color: hsl(133, 56%, 55%);
 }
 
 button:hover {
-  background-color: hsl(321, 100%, 78%);
+  background-color: black;
   cursor: pointer;
 }
 
@@ -76,7 +76,7 @@ header {
   float: right;
   margin: 0px;
   grid-area: box-b;
-  border: 1px solid hsl(322, 100%, 66%);
+  border: 1px solid hsl(115, 62%, 60%);
   box-shadow: none;
   width: 81px;
   height: 25px;
@@ -92,7 +92,7 @@ header {
 .header p {
   font-size: 9px;
   text-transform: capitalize;
-  color: hsl(322, 100%, 66%);
+  color: hsl(115, 100%, 66%);
 }
 
 .header p:hover {
